@@ -4,6 +4,7 @@ Geliştirilen oyun, oyuncu, düşman, çeşitli hareketli nesneler gibi oyun nes
 ortam yani Unity platformundaki sunulan çeşitli özellikleri kullanmadan, daha çok kod üzerinden geliştirilmiştir.
 
 [Oyunun WebGL Linki](https://play.unity.com/mg/other/webgl_build-178) 
+> Yön tuşları ve space tuşu ile oynanmaktadır.
 
 
 
